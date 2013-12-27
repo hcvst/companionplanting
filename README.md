@@ -7,4 +7,4 @@ Since I started Aquaponics a while back (see http://bot.co.za for a few photos i
 
 The focus of companionplanting.org is not aquaponics however. Technically, I am interested in building a Zotonic powered website and companion planting just happens to be a topic I like.
 
-companionplanting.org
+I am documenting my progress tutorial-style in the wiki here https://github.com/hcvst/companionplanting/wiki.
